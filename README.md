@@ -1,10 +1,7 @@
 
 <div id="header" align="center">
   <img src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif" width="400"/>
-</div>
-
-
-<div id="badges">
+  <div id="badges">
   <a href="https://www.linkedin.com/in/daniell-marafon-developer/?locale=en_US">
     <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -12,6 +9,10 @@
     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+</div>
+
+
+
 
 
 <div id="header" align="center">
