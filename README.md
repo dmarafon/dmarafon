@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif" width="300"/>
+  <img src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif" width="250"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/daniell-marafon-developer/?locale=en_US">
     <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,8 +10,8 @@
   </a>
 </div>
   <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1px"/>
+  Hello there!
+  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.giphy.com/media/qQh0DBncuFJwQ/giphy.gif)" width="50"/>
 </h1>
 </div>
 
@@ -28,7 +28,6 @@
 
 
 <!--
-**dmarafon/dmarafon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
