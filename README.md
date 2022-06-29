@@ -68,4 +68,14 @@ My name is Daniell, and I am a Full Stack Developer with a long experience with 
 
 ### :fire: My Stats :
   
+ <br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dmarafon&theme=radical&background=03010100&fire=F94A6B&sideNums=FF8616&ring=F94A6B&dates=FF8616&currStreakLabel=F94A6B&currStreakNum=FF8616&stroke=F94A6B&sideLabels=F94A6B)](https://git.io/streak-stats)
+  
+  
+  
+
+  
+
+  
 
