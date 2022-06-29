@@ -24,5 +24,10 @@ My name is Daniell, and I am a Full Stack Developer with a long experience with 
   <img src="https://cdn.dribbble.com/users/512167/screenshots/8937724/media/e1fd03fa8f531f2904d4226cc495b4dd.gif" width="200"/>
 <div/>
 
+- :telescope: Recently I'm looking for new opportunities as a web developer to grow and learn new skills.
 
+- :seedling: Exploring new technologies every 
 
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
