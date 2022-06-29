@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="900"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </div>
 <!--
 **dmarafon/dmarafon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
