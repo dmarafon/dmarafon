@@ -31,7 +31,7 @@ My name is Daniell, and I am a Full Stack Developer with a long experience with 
 
 - 🎨: In my free time I put my hands in my artwork, thinking how to mix them with all the technologies that I know.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniell-marafon-developer/?locale=en_US) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)]([daniellmarafon@gmail.com])
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniell-marafon-developer/?locale=en_US) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:daniellmarafon@gmail.com)
 
 
 <div/>  
