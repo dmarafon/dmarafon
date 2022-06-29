@@ -82,7 +82,13 @@ My name is Daniell, and I am a Full Stack Developer with a long experience with 
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=dmarafon&show_icons=true&theme=radical&bg_color=03010100&text_color=FF8616&title_color=F94A6B&icon_color=FF8616" />
   </a>
 </div>
-
+<br>
+<div align = "center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmarafon&show_icons=true&layout=compact&bg_color=03010100&text_color=FF8616&title_color=F94A6B&icon_color=FF8616" />
+  </a>
+</div>
+ 
   
 
   
