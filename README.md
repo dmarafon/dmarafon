@@ -31,7 +31,9 @@ My name is Daniell, and I am a Full Stack Developer with a long experience with 
 
 - 🎨: In my free time I put my hands in my artwork, thinking how to mix them with all the technologies that I know.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/daniell-marafon-developer/?locale=en_US))
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/daniell-marafon-developer/?locale=en_US]) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Linkedin&logoColor=white)]([daniellmarafon@gmail.com])
+
+
 <div/>  
   
   <br>
@@ -71,7 +73,8 @@ My name is Daniell, and I am a Full Stack Developer with a long experience with 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dmarafon&theme=radical&background=03010100&fire=F94A6B&sideNums=FF8616&ring=F94A6B&dates=FF8616&currStreakLabel=F94A6B&currStreakNum=FF8616&stroke=F94A6B&sideLabels=F94A6B)](https://git.io/streak-stats)
   
-  
+![Daniell's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmarafon&show_icons=true&theme=radical&bg_color=03010100)
+
   
 
   
