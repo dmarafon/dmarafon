@@ -15,7 +15,6 @@
 </h1>
 </div>
 
----
 
 ### 👨‍💻 About Me :
 
@@ -23,11 +22,14 @@ My name is Daniell, and I am a Full Stack Developer with a long experience with 
 <div  align="center">
   <img src="https://cdn.dribbble.com/users/512167/screenshots/8937724/media/e1fd03fa8f531f2904d4226cc495b4dd.gif" width="200"/>
 <div/>
-
+  
+<div align="left">  
+  
 - :telescope: Recently I'm looking for new opportunities as a web developer to grow and learn new skills.
 
-- :seedling: Exploring new technologies every 
+- :seedling: Exploring new subjects to learn always, from philosophy, to programming and art.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 🎨: In my free time I put my hands in my artwork, thinking how to mix them with all the technologies that I know.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/daniell-marafon-developer/?locale=en_US))
+<div/>  
