@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me :
 
-I am a Full Stack Developer with a long experience with Visual Production located in the beautiful city of Barcelona, Spain.
+My name is Daniell, and I am a Full Stack Developer with a long experience with Visual Production and QA, living in the beautiful city of Barcelona, Spain.
 <div  align="center">
   <img src="https://cdn.dribbble.com/users/512167/screenshots/8937724/media/e1fd03fa8f531f2904d4226cc495b4dd.gif" width="200"/>
 <div/>
