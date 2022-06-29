@@ -64,3 +64,8 @@ My name is Daniell, and I am a Full Stack Developer with a long experience with 
     <img src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg" title="Cypress" alt="Cypress" height="40"/>&nbsp;
 </div>
 
+---
+
+### :fire: My Stats :
+  
+
