@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="250"/>
+  <img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="400"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/daniell-marafon-developer/?locale=en_US">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,20 +15,14 @@
 </h1>
 </div>
 
+---
+
+### 👨‍💻 About Me :
+
+I am a Full Stack Developer with a long experience with Visual Production located in the beautiful city of Barcelona, Spain.
+<div  align="center">
+  <img src="https://cdn.dribbble.com/users/512167/screenshots/8937724/media/e1fd03fa8f531f2904d4226cc495b4dd.gif" width="200"/>
+<div/>
 
 
 
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
