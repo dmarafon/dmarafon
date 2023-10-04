@@ -18,14 +18,14 @@
 
 ### 👨‍💻 About Me :
 
-My name is Daniell, and I am a Full Stack Developer with a long experience with Visual Production and QA, living in the beautiful city of Barcelona, Spain.
+My name is Daniell, and I am a Full Stack Developer with a long experience with Visual Production and QA, living in Barcelona, Spain.
 <div  align="center">
   <img src="https://cdn.dribbble.com/users/512167/screenshots/8937724/media/e1fd03fa8f531f2904d4226cc495b4dd.gif" width="200"/>
 <div/>
   
 <div align="left">  
   
-- :telescope: Recently I'm looking for new opportunities as a web developer to grow and learn new skills.
+- :telescope: Always  looking for new ways as a web developer to grow and learn new skills.
 
 - :seedling: Exploring new subjects to learn always, from philosophy, to programming and art.
 
